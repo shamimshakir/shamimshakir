@@ -3,8 +3,10 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shamimshakir&label=Profile%20views&color=0e75b6&style=flat" alt="shamimshakir" /></p>
 
-- 🔭 I’m currently working on **https://classtune.com/** - 👯 I’m open to collaborate on **interesting projects** - 📫 How to reach me **shamimshakir75@gmail.com** - 📄 Know about my experiences
-[https://shamimshakir.github.io/resume/](https://shamimshakir.github.io/resume/)
+- 🔭 I’m currently working on **https://classtune.com/** 
+- 👯 I’m open to collaborate on **interesting projects** 
+- 📫 How to reach me **shamimshakir75@gmail.com** 
+- 📄 Know about my experiences [https://shamimshakir.github.io/resume/](https://shamimshakir.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
